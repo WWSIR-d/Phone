@@ -32,7 +32,6 @@
     <Unit Name="SL Updesk" Phone1="602" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="Sea Girt">
-    <Unit Name="Alexis Neris" Phone1="7031" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Angela Pfisterer" Phone1="7023" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Arlene Crowe" Phone1="7012" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Betsy Bauer" Phone1="7002" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -64,6 +63,7 @@
     <Unit Name="Tina Cavazzoni" Phone1="7009" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="Manasquan">
+    <Unit Name="Alexis Neris" Phone1="1022" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Amy Perry" Phone1="1019" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Anthony Payer" Phone1="1017" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Colleen Conrad" Phone1="1004" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -123,7 +123,7 @@
     <Unit Name="April Puciata" Phone1="9011" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Christopher Jarahian" Phone1="9003" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="David Frost" Phone1="9002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Denise Fredericks" Phone1="9001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Denise Addonisio" Phone1="9001" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Greg Dukoff" Phone1="9012" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Joseph Scheeler" Phone1="9008" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Judith Smith" Phone1="9009" Phone2="" Phone3="" default_photo="Resource:"/>
