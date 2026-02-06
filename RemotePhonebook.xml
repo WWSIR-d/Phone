@@ -93,7 +93,6 @@
     <Unit Name="Deborah Donovan" Phone1="6007" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Devon Pegler" Phone1="6037" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Diane Cambron" Phone1="6003" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Douglas Pickell" Phone1="6019" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Elizabeth Hewson Judge" Phone1="6012" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Erin Kavanaugh" Phone1="6013" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Jackie Clark" Phone1="6004" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -119,5 +118,6 @@
   </Menu>
   
 </YealinkIPPhoneBook>
+
 
 
