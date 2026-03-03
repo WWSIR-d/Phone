@@ -52,7 +52,6 @@
     <Unit Name="Joanne Zapicchi" Phone1="1020" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Margaret Columbia-Walsh" Phone1="1021" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Monica Nordell" Phone1="1015" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Nicholas Condon" Phone1="1003" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Patricia Haverstick" Phone1="1008" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Pauline Evans" Phone1="1006" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Robert Imgrund" Phone1="1011" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -65,7 +64,6 @@
     <Unit Name="Christine Woodrow" Phone1="7026" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Denise Dreyer" Phone1="7015" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Gwendolyn Pastorelli" Phone1="7022" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Henry Schwier" Phone1="7045" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Ilze Henry" Phone1="7018" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Janet Ranieri" Phone1="7038" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Josephine Bourke" Phone1="7005" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -103,7 +101,6 @@
     <Unit Name="Joanne McLaughlin" Phone1="6016" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Kerri Schanen" Phone1="6031" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Kerry Patterson" Phone1="6018" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Kristine Lindung" Phone1="6032" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Laura Macomber" Phone1="6033" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Lisel Perselay" Phone1="6038" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Lorraine Allen" Phone1="6001" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -111,13 +108,13 @@
     <Unit Name="Matthew Skea" Phone1="6039" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Maureen Skea" Phone1="6021" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Meghan Frost" Phone1="6008" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Michael Clancy" Phone1="6029" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Michael Skea" Phone1="6022" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Moira Skea Jones" Phone1="6023" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Wendy Tombs" Phone1="6041" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   
 </YealinkIPPhoneBook>
+
 
 
 
